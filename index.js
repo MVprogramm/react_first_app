@@ -7,7 +7,7 @@ const greetingElem = React.createElement(
   {
     className: 'greeting'
   },
-  'Hello, React'
+  'Hello, React!'
 );
 
 ReactDOM.render(greetingElem,rootElem);
